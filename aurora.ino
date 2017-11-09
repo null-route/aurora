@@ -142,4 +142,3 @@ uint16_t curDur, uint16_t tarDur, PixelStruct tarColor, bool marker) {
     strip.setPixelColor(location, pixel[location].r, pixel[location].g, pixel[location].b);
   }
 }
-
